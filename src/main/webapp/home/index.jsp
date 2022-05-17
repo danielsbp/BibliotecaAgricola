@@ -8,6 +8,6 @@
         <title>Exemplo de Visão - View</title>
     </head>
     <body>
-        <h1>Éric - Lista de livros agrícolas - biblioteca da Fatec Pompeia</h1>
+        <h1>Daniel - Lista de livros agrícolas - biblioteca da Fatec Pompeia</h1>
     </body>
 </html>
